@@ -13,7 +13,7 @@ namespace TeslaCamSentryViewer
 {
     public partial class form1 : Form
     {
-        private const string DefaultPath = @"c:\tcam";
+        private const string DefaultPath = @"C:\TempG\tcam_vids\RecentClips";
         private string videoState = "";
         public form1()
         {
